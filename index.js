@@ -27,3 +27,7 @@ const ciudad = prompt("escoje una de las siguientes ciudades Paris, Boston, Lond
 
 document.write(calcularCosteAvion(ciudad));
 
+
+function calculateCarCost(dia){
+    
+}
